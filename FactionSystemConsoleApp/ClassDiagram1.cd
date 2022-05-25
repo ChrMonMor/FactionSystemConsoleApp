@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FactionSystemConsoleApp.AssetsCunning">
+    <Position X="3.25" Y="8" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAFAAAQACRQAAgIASQgAAAAAiAAICAAJABAgAgAEA=</HashCode>
+      <FileName>AssetsCunning.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactionSystemConsoleApp.AssetsForce" Collapsed="true">
+    <Position X="5.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAAQAIAAAAAAACAUggAKACAAAACABAEqAQACAAAGBI=</HashCode>
+      <FileName>AssetsForce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactionSystemConsoleApp.AssetsWealth" Collapsed="true">
+    <Position X="7.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wQgkAAgAgAAAEQEIAAggAEAAAQEAQAABBAAAAACAQAM=</HashCode>
+      <FileName>AssetsWealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactionSystemConsoleApp.FactionAsset">
+    <Position X="5.5" Y="6.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAoA4QAICIAijAAAAAKQAgAIAEIABAIAiAJA=</HashCode>
+      <FileName>FactionAsset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactionSystemConsoleApp.FactionBase" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoBAAA4AgBABEAAAADEQEAICCCEniIBAoIAIEIAQ=</HashCode>
+      <FileName>FactionBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactionSystemConsoleApp.FactionGoals" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAUAAAAAAAgQAgAIAAAAgAAAAAAAAhCAAAAAAAAA=</HashCode>
+      <FileName>FactionGoals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactionSystemConsoleApp.FactionTag" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAEEAAggAUAgAAAQABiAQAAEEIEBAAATCA=</HashCode>
+      <FileName>FactionTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactionSystemConsoleApp.Planet" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAABAAEAAAAgAAABAAAkCAACAAAA=</HashCode>
+      <FileName>Planet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactionSystemConsoleApp.Program" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactionSystemConsoleApp.RNG" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>RNG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactionSystemConsoleApp.Turns" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAhAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Turns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
